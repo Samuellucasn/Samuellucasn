@@ -1,8 +1,8 @@
-## Olá! Sou Samuel Lucas 👋
+## Hi! I'm Samuel Lucas 👋
 
-🗺️ Curioso e objetivo
+🗺️ Front end Developer
 
-🚀 Focado em aprimorar no front-end
+🚀 Trying to be better
 
 ![Samuel Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuellucasn&show_icons=true&theme=tokyonight)
 
